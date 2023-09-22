@@ -1,6 +1,6 @@
-# My Super Secret Project
+# My Super Secret Public Portfolio
 
-Welcome to my super-secret project repository! 🤫
+Welcome to my super-secret portfolio repository! 🤫
 
 ## Disclaimer
 
@@ -8,7 +8,7 @@ Welcome to my super-secret project repository! 🤫
 
 ## About
 
-This is my personal playground, a code haven where I experiment with ideas, learn new things, and generally have a good time. While you may not be allowed to use the code here, you can certainly peek around and get inspired.
+This is my personal playground, a code haven where I experiment with ideas, learn new things, and generally have a good time. While you may not be allowed to use the code here, you can certainly peek around and get inspired. Just know your not allowed to view it. Legally. 
 
 ## Features
 
@@ -18,7 +18,7 @@ This is my personal playground, a code haven where I experiment with ideas, lear
 
 ## Usage
 
-Well, there's not much to say here. If you somehow got access to this repository, congratulations! You can look but not touch.
+Well, there's not much to say here. If you somehow got access to this repository, congratulations! You can't look and also not touch.
 
 ## Contributing
 
@@ -26,5 +26,5 @@ Sorry, contributions are not allowed. This is a one-person show.
 
 ## Contact
 
-If you have any questions about why you can't use this code, you can reach out to me at my-secret-email@example.com. Just remember, the answer will still be "no."
+If you have any questions about why you can't use this code, you can reach out to me at my-fake-email@defFakeWebsite.com. Just remember, the answer will still be "no."
 
