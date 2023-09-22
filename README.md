@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Super Secret Project
 
-## Getting Started
+Welcome to my super-secret project repository! 🤫
 
-First, run the development server:
+## Disclaimer
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**License:** You want a license? You're not even allowed to be here. You are not authorized to use or view this code. This project is so exclusive; it's like a members-only club for one.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This is my personal playground, a code haven where I experiment with ideas, learn new things, and generally have a good time. While you may not be allowed to use the code here, you can certainly peek around and get inspired.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- Absolutely nothing you can legally use.
+- Top-secret algorithms that are too classified to even document.
+- A 404 error page that's just a mirror, reminding you that you don't belong here.
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Well, there's not much to say here. If you somehow got access to this repository, congratulations! You can look but not touch.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Sorry, contributions are not allowed. This is a one-person show.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions about why you can't use this code, you can reach out to me at my-secret-email@example.com. Just remember, the answer will still be "no."
+
